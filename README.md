@@ -23,7 +23,15 @@ This project recreates a space-themed travel website with four interactive secti
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./public/screenshotHome.png)
+
+![](./public/screenshotDestination.png)
+
+![](./public/screenshotCrew.png)
+
+![](./public/screenshotTechnology.png)
+
+![](./public/screenshotLayout.png)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
@@ -33,7 +41,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://github.com/DavidMbagwu/space-tourism)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## Features
@@ -84,6 +92,5 @@ The current implementation uses local component state and shared context to cont
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- **Frontend Mentor** – https://www.frontendmentor.io/profile/DavidMbagwu
+- **GitHub** – https://github.com/DavidMbagwu
