@@ -11,19 +11,19 @@ body {
 }
 
 body.home-bg {
-  background-image: url("./assets/home/background-home-desktop.jpg");
+  background-image: url("/assets/home/background-home-desktop.jpg");
 }
 
 body.destination-bg {
-  background-image: url("./assets/destination/background-destination-desktop.jpg");
+  background-image: url("/assets/destination/background-destination-desktop.jpg");
 }
 
 body.crew-bg {
-  background-image: url("./assets/crew/background-crew-desktop.jpg");
+  background-image: url("/assets/crew/background-crew-desktop.jpg");
 }
 
 body.technology-bg {
-  background-image: url("./assets/technology/background-technology-desktop.jpg");
+  background-image: url("/assets/technology/background-technology-desktop.jpg");
 }
 
 /* Text styles */
