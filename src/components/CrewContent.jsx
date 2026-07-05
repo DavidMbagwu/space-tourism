@@ -19,7 +19,7 @@ export default function CrewContent() {
 
   const formattedName = currentCrewMember.toLowerCase().replace(/\s+/g, "-");
 
-  currentCrewImg = `src/assets/crew/image-${formattedName}.png`;
+  currentCrewImg = `/assets/crew/image-${formattedName}.png`;
 
   var bubbleList = crew.map((member) => {
     return (

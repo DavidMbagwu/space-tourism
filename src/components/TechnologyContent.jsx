@@ -30,7 +30,7 @@ export default function TechnologyContent() {
 
   const formattedName = selectedTech.toLowerCase().replace(/\s+/g, "-");
 
-  currentTechImg = `src/assets/technology/image-${formattedName}-portrait.jpg`;
+  currentTechImg = `/assets/technology/image-${formattedName}-portrait.jpg`;
   return (
     <>
       <div className="tech-left-holder">

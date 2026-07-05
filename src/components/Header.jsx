@@ -5,7 +5,7 @@ export default function Header() {
     <>
       <header>
         <div className="logo-design">
-          <img src="src\assets\shared\logo.svg" alt="Space Tourism Logo" />
+          <img src="/assets/shared/logo.svg" alt="Space Tourism Logo" />
           <div className="design-line"></div>
         </div>
         <NavBar />

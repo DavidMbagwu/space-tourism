@@ -17,7 +17,7 @@ export default function DestinationContent() {
     (destination) => destination.name.toLowerCase() === selectedDestination,
   );
 
-  destinationImg = `src\\assets\\destination\\image-${selectedDestination}.png`;
+  destinationImg = `/assets/destination/image-${selectedDestination}.png`;
   return (
     <>
       <div
