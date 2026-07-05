@@ -12,6 +12,7 @@ Frontend Mentor solution for the Space Tourism multipage website challenge, buil
   - [Features](#features)
   - [Built With](#built-with)
   - [Project Structure](#project-structure)
+    - [What I learned](#what-i-learned)
   - [Getting Started](#getting-started)
   - [Available Scripts](#available-scripts)
   - [Notes](#notes)
@@ -32,12 +33,6 @@ This project recreates a space-themed travel website with four interactive secti
 ![](./public/screenshotTechnology.png)
 
 ![](./public/screenshotLayout.png)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it.
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
 ### Links
 
@@ -69,6 +64,14 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - `src/components/MainContent.jsx` switches between the page content blocks
 - `src/data.json` stores the destination, crew, and technology data
 - `src/assets/` contains the page imagery and shared assets
+
+### What I learned
+
+During this project, I deepened my understanding of state-driven layouts and handling complex responsive design problems:
+
+- Handling Component Unmounting Animations: Solved the limitation where CSS animations don't replay on state updates by strategically utilizing React's key attribute to force element remounting.
+
+- Flexbox Overflow & Wrapping: Overcame layout bugs where long strings blocked text wrapping by using min-width: 0 inside parent containers to ensure text blocks behave fluidly.
 
 ## Getting Started
 
