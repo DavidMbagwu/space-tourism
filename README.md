@@ -37,7 +37,7 @@ This project recreates a space-themed travel website with four interactive secti
 ### Links
 
 - Solution URL: (https://github.com/DavidMbagwu/space-tourism)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://david-space-tourism.netlify.app/)
 
 ## Features
 
